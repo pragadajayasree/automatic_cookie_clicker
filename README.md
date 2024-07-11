@@ -1,0 +1,1 @@
+# automatic_cookie_clicker
